@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\git_project\\Dotnet-ML\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F423481E-24AB-454F-9475-16EF16F4382D}|MyMLApp\\MyMLApp.csproj|d:\\git_project\\dotnet-ml\\mymlapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F423481E-24AB-454F-9475-16EF16F4382D}|MyMLApp\\MyMLApp.csproj|solutionrelative:mymlapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F423481E-24AB-454F-9475-16EF16F4382D}|MyMLApp\\MyMLApp.csproj|d:\\git_project\\dotnet-ml\\mymlapp\\yelp_labelled.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F423481E-24AB-454F-9475-16EF16F4382D}|MyMLApp\\MyMLApp.csproj|solutionrelative:mymlapp\\yelp_labelled.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "yelp_labelled.txt",
+              "DocumentMoniker": "D:\\git_project\\Dotnet-ML\\MyMLApp\\yelp_labelled.txt",
+              "RelativeDocumentMoniker": "MyMLApp\\yelp_labelled.txt",
+              "ToolTip": "D:\\git_project\\Dotnet-ML\\MyMLApp\\yelp_labelled.txt",
+              "RelativeToolTip": "MyMLApp\\yelp_labelled.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-03-01T06:30:05.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\git_project\\Dotnet-ML\\MyMLApp\\Program.cs",
+              "RelativeDocumentMoniker": "MyMLApp\\Program.cs",
+              "ToolTip": "D:\\git_project\\Dotnet-ML\\MyMLApp\\Program.cs",
+              "RelativeToolTip": "MyMLApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T06:30:01.683Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

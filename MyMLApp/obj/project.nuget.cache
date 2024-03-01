@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5ndJn60KFGK00RPegQKqWKHaLOuvGThB7adPdVcSg6sqfmlAZk8cAgooZu3fCV8FwqJG4AdPxQu0bceiahG4zA==",
+  "dgSpecHash": "/uBIOedMqioCGvHmCWRrrYxBWGB+UpZUKnXn5/WSFKdUjJkLrGU27VEa/siHc7AYOL8DV9wRgUbE5ZrQg8v5iA==",
   "success": true,
-  "projectFilePath": "D:\\git\\DotnetProject\\MyMLApp\\MyMLApp\\MyMLApp.csproj",
+  "projectFilePath": "D:\\git_project\\Dotnet-ML\\MyMLApp\\MyMLApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nicol\\.nuget\\packages\\microsoft.ml\\3.0.0-preview.23266.6\\microsoft.ml.3.0.0-preview.23266.6.nupkg.sha512",
     "C:\\Users\\nicol\\.nuget\\packages\\microsoft.ml.cpumath\\3.0.0-preview.23266.6\\microsoft.ml.cpumath.3.0.0-preview.23266.6.nupkg.sha512",

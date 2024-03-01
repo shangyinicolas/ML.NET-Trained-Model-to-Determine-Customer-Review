@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\git\\DotnetProject\\MyMLApp\\MyMLApp\\MyMLApp.csproj": {}
+    "D:\\git_project\\Dotnet-ML\\MyMLApp\\MyMLApp.csproj": {}
   },
   "projects": {
-    "D:\\git\\DotnetProject\\MyMLApp\\MyMLApp\\MyMLApp.csproj": {
+    "D:\\git_project\\Dotnet-ML\\MyMLApp\\MyMLApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\git\\DotnetProject\\MyMLApp\\MyMLApp\\MyMLApp.csproj",
+        "projectUniqueName": "D:\\git_project\\Dotnet-ML\\MyMLApp\\MyMLApp.csproj",
         "projectName": "MyMLApp",
-        "projectPath": "D:\\git\\DotnetProject\\MyMLApp\\MyMLApp\\MyMLApp.csproj",
+        "projectPath": "D:\\git_project\\Dotnet-ML\\MyMLApp\\MyMLApp.csproj",
         "packagesPath": "C:\\Users\\nicol\\.nuget\\packages\\",
-        "outputPath": "D:\\git\\DotnetProject\\MyMLApp\\MyMLApp\\obj\\",
+        "outputPath": "D:\\git_project\\Dotnet-ML\\MyMLApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "E:\\1\\NuGetPackages"
